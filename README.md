@@ -12,3 +12,6 @@ Solves the minimum time need to solve a squence of CPU works, which are related 
 
 ## Graph-Kruskal
 Using Kruskal's algorithm, finds the minimum weighted edges between two vertices such that both would lie on disjoint sets afterwards
+
+## Graph-A*
+An implementation of A-star algorithm for shortest path
