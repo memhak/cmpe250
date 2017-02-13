@@ -9,3 +9,6 @@ A discrete event simulation, including task-scheduling for CPU
 
 ## Graph-Longest Path
 Solves the minimum time need to solve a squence of CPU works, which are related prerequisitively one another. Representation is based on graph theory and solution is found by finding the longest path in the graph
+
+## Graph-Kruskal
+Using Kruskal's algorithm, finds the minimum weighted edges between two vertices such that both would lie on disjoint sets afterwards
