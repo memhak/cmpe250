@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11    CMakeFiles/project1.dir/main.cpp.o CMakeFiles/project1.dir/Node.cpp.o CMakeFiles/project1.dir/LinkedList.cpp.o CMakeFiles/project1.dir/BigInteger.cpp.o  -o project1 -rdynamic 
