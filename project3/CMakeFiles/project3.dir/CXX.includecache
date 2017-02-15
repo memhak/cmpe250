@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student/workspace/project3/project3.cpp
+iostream
+-
+algorithm
+-
+fstream
+-
+list
+-
+queue
+-
+iomanip
+-
+stack
+-
+
